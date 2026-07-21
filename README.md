@@ -1,5 +1,15 @@
 # 🔍 TCP Port Scanner
 
+Candidate Name: CHRIS ALFRED
+
+Selected For: Cyber Security & Ethical Hacking
+
+Organization: Codtech IT Solutions Private Limited
+
+Duration: 4 Weeks
+
+Intern ID: CITS7498
+
 A simple, browser-based TCP port scanner built with Python and Streamlit.
 Enter a target IP or hostname, choose a port range, and the app checks
 each port with a TCP connect scan — showing live progress and a final
